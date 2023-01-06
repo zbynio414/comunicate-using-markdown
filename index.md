@@ -11,3 +11,6 @@
 for i in range(8):
     print(i)
 ```
+- [ ] Turn on GitHup Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
